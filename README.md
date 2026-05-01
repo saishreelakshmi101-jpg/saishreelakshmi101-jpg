@@ -8,13 +8,13 @@
 🎓 Information Science [ISE] Student
 🚀 Passionate about building real-world projects
 🌱 Currently learning Full Stack Web Development
-✨ Interested in AI, Web Apps, Cyber security ,and Problem Solving 
+✨ Interested in AI, Web Apps, Cybersecurity, and Problem Solving 
 
 ---
 
 ## 🔧 Tech Stack
-- Python, Java, C++
-- HTML, CSS, JavaScript
+- Python, Java, Full-stack
+- HTML, CSS, 
 ---
 
 ## 🌟 Featured Projects
